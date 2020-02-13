@@ -1,5 +1,5 @@
 # HousePrice-Prediction-kaggle
-## Competition Rank: 40 / 5019
+## Competition Rank: 34 / 5019
 
 
 House Prices: Advanced Regression Techniques Predict sales prices and practice feature engineering, RFs, and gradient boosting
